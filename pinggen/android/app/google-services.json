@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "388563281009",
+    "project_id": "chatme-7c942",
+    "storage_bucket": "chatme-7c942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388563281009:android:0a043bcfcfec0603c7e7d0",
+        "android_client_info": {
+          "package_name": "com.robin.basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388563281009-af56iljsp8g6nb658uv4dr1ncg2c263a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4RJHjsOKYEnS-lcI9E8PVyN-dPojBeUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388563281009-af56iljsp8g6nb658uv4dr1ncg2c263a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388563281009-03uolg5mas0o2v6uhje5ldkago23ftok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.robin.chatMe.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388563281009:android:ed61bf6a69a4b9e7c7e7d0",
+        "android_client_info": {
+          "package_name": "com.robin.chat_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388563281009-af56iljsp8g6nb658uv4dr1ncg2c263a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4RJHjsOKYEnS-lcI9E8PVyN-dPojBeUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388563281009-af56iljsp8g6nb658uv4dr1ncg2c263a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388563281009-03uolg5mas0o2v6uhje5ldkago23ftok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.robin.chatMe.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388563281009:android:28176f60e0faed52c7e7d0",
+        "android_client_info": {
+          "package_name": "com.robin.pinggen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388563281009-af56iljsp8g6nb658uv4dr1ncg2c263a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4RJHjsOKYEnS-lcI9E8PVyN-dPojBeUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388563281009-af56iljsp8g6nb658uv4dr1ncg2c263a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388563281009-03uolg5mas0o2v6uhje5ldkago23ftok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.robin.chatMe.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
